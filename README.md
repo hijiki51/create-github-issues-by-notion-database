@@ -21,7 +21,9 @@ REPO_GITHUB_TOKEN=<your-github-token>
 REPO_GITHUB_OWNER=<your-github-owner>
 REPO_GITHUB_REPO=<your-github-repository>
 
-PROPERTY_TITLE=<title-for-your-tasks-in-database>
+TEAM_NAME=<team-name-for-your-tasks-in-database>
+TEAM_NAME_PROPERTY=<property-name-for-team-name-in-database>
+PROPERTY_TITLE=<property-name-for-title-in-database>
 PROPERTY_NO=<property-name-for-github-issues-no>
 PROPERTY_GITHUB=<property-name-for-github-issue-url>
 ```
