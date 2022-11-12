@@ -191,6 +191,14 @@
     "is-plain-object" "^5.0.0"
     "universal-user-agent" "^6.0.0"
 
+"@octokit/graphql-schema@^12.26.1":
+  "integrity" "sha512-U5dOPQwzdlTUzTjzMg0Fzmo4lUvqXlz2mnhrZH7/GsvNZliR4lZVUtpkqLjXS77MjmW4G9gmU4NMUozPyz92Mg=="
+  "resolved" "https://registry.npmjs.org/@octokit/graphql-schema/-/graphql-schema-12.26.1.tgz"
+  "version" "12.26.1"
+  dependencies:
+    "graphql" "^16.0.0"
+    "graphql-tag" "^2.10.3"
+
 "@octokit/graphql@^5.0.0":
   "integrity" "sha512-amO1M5QUQgYQo09aStR/XO7KAl13xpigcy/kI8/N1PnZYSS69fgte+xA4+c2DISKqUZfsh0wwjc2FaCt99L41A=="
   "resolved" "https://registry.npmjs.org/@octokit/graphql/-/graphql-5.0.4.tgz"
@@ -778,6 +786,18 @@
   "resolved" "https://registry.npmjs.org/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz"
   "version" "1.0.4"
 
+"graphql-tag@^2.10.3":
+  "integrity" "sha512-FdSNcu2QQcWnM2VNvSCCDCVS5PpPqpzgFT8+GXzqJuoDd0CBncxCY278u4mhRO7tMgo2JjgJA5aZ+nWSQ/Z+xg=="
+  "resolved" "https://registry.npmjs.org/graphql-tag/-/graphql-tag-2.12.6.tgz"
+  "version" "2.12.6"
+  dependencies:
+    "tslib" "^2.1.0"
+
+"graphql@^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0", "graphql@^16.0.0":
+  "integrity" "sha512-KPIBPDlW7NxrbT/eh4qPXz5FiFdL5UbaA0XUNz2Rp3Z3hqBSkbj0GVjwFDztsWVauZUWsbKHgMg++sk8UX0bkw=="
+  "resolved" "https://registry.npmjs.org/graphql/-/graphql-16.6.0.tgz"
+  "version" "16.6.0"
+
 "has-flag@^4.0.0":
   "integrity" "sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ=="
   "resolved" "https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz"
@@ -1215,6 +1235,11 @@
     "make-error" "^1.1.1"
     "v8-compile-cache-lib" "^3.0.1"
     "yn" "3.1.1"
+
+"tslib@^2.1.0":
+  "integrity" "sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA=="
+  "resolved" "https://registry.npmjs.org/tslib/-/tslib-2.4.1.tgz"
+  "version" "2.4.1"
 
 "type-check@^0.4.0", "type-check@~0.4.0":
   "integrity" "sha512-XleUoc9uwGXqjWwXaUTZAmzMcFZ5858QA2vvx1Ur5xIcixXIP+8LnFDgRplU30us6teqdlskFfu+ae4K79Ooew=="
