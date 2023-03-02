@@ -4,7 +4,7 @@
   "description": "",
   "dependencies": {
     "@notionhq/client": "latest",
-    "@octokit/graphql-schema": "^12.26.1",
+    "@octokit/graphql-schema": "^13.6.0",
     "date-fns": "^2.29.3",
     "dotenv": "^16.0.3",
     "notion-to-md": "^2.5.5",
